@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: coffee_rank
+      port: 27017
+      host: localhost
